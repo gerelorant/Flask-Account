@@ -1,0 +1,5 @@
+Flask
+Flask-Security
+Flask-SQLAlchemy
+SQLAlchemy
+SQLAlchemy-Utils
